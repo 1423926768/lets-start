@@ -1,10 +1,13 @@
 前端的课程开始了！这是一个较为完整的笔记本，记录我整个前端学习过程中的疑问，困惑和折腾的坑，为以后的面试打下坚实的时间基础。
 
+
 ## Github
 
-github地址：https://github.com/1423926768
+github地址：
+
 ## Timeline
-:::
+
+:::info
 上课期间的代码任务需要及时完成并更新此文档中的仓库链接
 如有特殊情况或者建议请在备注中填写~
 :::
@@ -50,6 +53,10 @@ github地址：https://github.com/1423926768
 | 38 | pwa |  |  |
 | 39 | react native |  |  |
 | 40 | electron |  |  |
+
+
+# 语雀知识库
+[https://www.yuque.com/caojing-np4wo/xi37uk/wsx29rxrlkh6cooh?#](https://www.yuque.com/caojing-np4wo/xi37uk/wsx29rxrlkh6cooh?#) 《Preface》
 
 
 
